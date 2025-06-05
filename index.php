@@ -1,7 +1,12 @@
 <?php
 require 'vendor/autoload.php';
 require "header.php";
+/*
+developed by
+Lorenzo Basile, Federico Lotito e Manuel Miani
+Itis "Nullo Baldini" Ravenna
 
+*/
 $cursor = null;
 
 try {
